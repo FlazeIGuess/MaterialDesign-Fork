@@ -23,18 +23,8 @@ The theme has built-in MaterialYou Skin Variables.
 
 ## Screenshots
 
-<img width="660" alt="Main" src="https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/raw/main/MaterialDesign/assets/2.png">
-
-<img width="660" alt="Context" src="https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/raw/main/MaterialDesign/assets/6.png">
-
-<img width="660" alt="Account Switcher" src="https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/raw/main/MaterialDesign/assets/3.png">
-
-<img width="660" alt="Modal" src="https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/raw/main/MaterialDesign/assets/4.png">
-
-<img width="660" alt="Discovery" src="https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/raw/main/MaterialDesign/assets/5.png">
-
 ---
 
-[BetterDiscord-Stuff](https://github.com/TheCommieAxolotl/BetterDiscord-Stuff) / [MaterialDesign](https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/MaterialDesign)
+Made with ❤️ by [Flaze](https://github.com/FlazeIGuess) & [TheCommieAxolotl](https://github.com/TheCommieAxolotl)
 
-Made with ❤️ by [TheCommieAxolotl](https://github.com/TheCommieAxolotl)
+Thank to [TheCommieAxolotl](https://github.com/TheCommieAxolotl) for sharing this insane Design with us!!!
