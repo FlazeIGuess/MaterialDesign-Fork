@@ -1,5 +1,5 @@
 # MaterialTheme
-### A clean theme inspired by [TheCommieAxolotl](https://github.com/TheCommieAxolotl) Design, which was inspired by Google's Material Design.
+### This is a fork from MaterialDesign(/https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/MaterialDesign) by [TheCommieAxolotl](https://github.com/TheCommieAxolotl), which was inspired by Google's Material Design.
 
 ## MaterialYou
 The theme has built-in MaterialYou Skin Variables.
