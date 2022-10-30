@@ -1,5 +1,5 @@
-# MaterialDesign
-### A clean theme inspired by Google's Material Design
+# MaterialTheme
+### A clean theme inspired by [TheCommieAxolotl](https://github.com/TheCommieAxolotl) Design, which was inspired by Google's Material Design.
 
 ## MaterialYou
 The theme has built-in MaterialYou Skin Variables.
