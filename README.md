@@ -27,4 +27,4 @@ The theme has built-in MaterialYou Skin Variables.
 
 Made with ❤️ by [Flaze](https://github.com/FlazeIGuess) & [TheCommieAxolotl](https://github.com/TheCommieAxolotl)
 
-Thank to [TheCommieAxolotl](https://github.com/TheCommieAxolotl) for sharing this insane Design with us!!!
+Thanks to [TheCommieAxolotl](https://github.com/TheCommieAxolotl) for sharing this insane Design with us!!!
